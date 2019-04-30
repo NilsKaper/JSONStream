@@ -4,8 +4,8 @@
        {
           "key": "TM"
        },
-       "summary": "Test API",
-       "description": "Es funktioniert noch immer!",
+       "summary": "Browser Test API",
+       "description": "Hier der Test über den Browser!",
        "issuetype": {
           "name": "Task"
        }
