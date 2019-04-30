@@ -4,8 +4,8 @@
        {
           "key": "TM"
        },
-       "summary": "Browser Test API",
-       "description": "Hier der Test über den Browser!",
+       "summary": "create JIRA Issue via Browser",
+       "description": "Das funktioniert echt super!",
        "issuetype": {
           "name": "Task"
        }
