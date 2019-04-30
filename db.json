@@ -1,0 +1,13 @@
+{
+    "fields": {
+       "project":
+       {
+          "key": "TM"
+       },
+       "summary": "Test API",
+       "description": "Es funktioniert noch immer!",
+       "issuetype": {
+          "name": "Task"
+       }
+   }
+}
